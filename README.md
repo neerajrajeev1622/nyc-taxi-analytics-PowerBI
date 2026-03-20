@@ -53,7 +53,7 @@ NYC Taxi Dataset (January 2015)
 
 ## 📸 Screenshots
 
-![Overview](screenshots/overviewpg1.png)
+![Overview](NYC-PowerBI/overviewpg1.png)
 
 ## 👨‍💻 Author
 
