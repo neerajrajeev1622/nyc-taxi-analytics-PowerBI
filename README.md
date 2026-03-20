@@ -4,6 +4,21 @@
 
 This project analyzes NYC Taxi data (12M+ records) using Power BI, Snowflake, and Google Cloud.
 
+## 📸 Dashboard Screenshots
+
+### 🟦 Overview Dashboard
+
+![Overview](NYC-PowerBI/overviewpg1.png)
+
+### 🟧 Customer Behavior Analysis
+
+![Behavior](NYC-PowerBI/behaviorpg2.png)
+
+### 🌍 Location & Advanced Insights
+
+![Location](NYC-PowerBI/locationpg3.png)
+
+
 ## 🔧 Tech Stack
 
 * Power BI
@@ -50,10 +65,6 @@ NYC Taxi Dataset (January 2015)
 * Cloud-based data pipeline
 * Advanced DAX measures
 * Geospatial analysis
-
-## 📸 Screenshots
-
-![Overview](NYC-PowerBI/overviewpg1.png)
 
 ## 👨‍💻 Author
 
